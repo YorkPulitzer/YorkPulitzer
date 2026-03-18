@@ -6,7 +6,6 @@ Focusing on Android system customization, Xposed module development, and system-
 - 🔭 I’m currently working on **LSPosed Module Repository**
 - 🌱 I’m currently learning **Android System Internals & ART Hooking**
 - 💬 Ask me about **Xposed, Magisk, Android Rooting**
-- 📫 How to reach me: **1304316071@qq.com**
 
 ---
 
